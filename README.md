@@ -1,2 +1,2 @@
 # Cyborg-Daily-Projects
-Let's start contributing
+Let's start hacking
